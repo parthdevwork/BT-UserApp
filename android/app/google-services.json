@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045907166711",
+    "project_id": "baggagetaxidev",
+    "storage_bucket": "baggagetaxidev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045907166711:android:8ce09762e3c12a83760af2",
+        "android_client_info": {
+          "package_name": "com.baggagetaxi.customer2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylDuiQZ_a6KHrUiFklca-F-fSBDw9C9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
